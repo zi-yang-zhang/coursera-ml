@@ -1,1 +1,1 @@
-# coursera-ml
+# Coursera Machine Learning assigments
